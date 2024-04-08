@@ -1,0 +1,184 @@
+Petición recibida: GET /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /page2.com HTTP/1.1
+Respuesta enviada a page2.com, con encabezado Via: ubuntu@54.89.6.126
+
+Petición recibida: GET /page2.com HTTP/1.1
+Respuesta para /page2.com servida desde caché.
+
+Petición recibida: HEAD /page2.com HTTP/1.1
+Respuesta para /page2.com servida desde caché.
+
+Petición recibida: HEAD /page2.com HTTP/1.1
+Respuesta para /page2.com servida desde caché.
+
+Petición recibida: GET / HTTP/1.1
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: HEAD /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: GET /example HTTP/1.1
+Respuesta para /example servida desde caché.
+
+Petición recibida: GET /page2.com HTTP/1.1
+Respuesta enviada a page2.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: GET /page3.com HTTP/1.1
+Respuesta enviada a page3.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: GET /page3.com HTTP/1.1
+Respuesta enviada a page3.com, con encabezado Via: ubuntu@44.207.6.109
+
+Petición recibida: GET /page3.com HTTP/1.1
+Respuesta para /page3.com servida desde caché.
+
+Petición recibida: GET /page3.com HTTP/1.1
+Respuesta para /page3.com servida desde caché.
+
+Petición recibida: GET /page3.com HTTP/1.1
+Respuesta enviada a page3.com, con encabezado Via: ubuntu@44.207.6.109
+
