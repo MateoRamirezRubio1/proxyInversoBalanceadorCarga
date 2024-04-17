@@ -1,184 +1,316 @@
-Petición recibida: GET /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+Petición recibida: GET page2.com/ HTTP/1.1
+Respuesta enviada a page2.com, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 04:37:21 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Fri, 12 Apr 2024 23:44:09 GMT
+ETag: "103-615eed9211229"
+Accept-Ranges: bytes
+Content-Length: 259
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
 
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
+Petición recibida: HEAD page2.com/ HTTP/1.1
+Respuesta enviada a page2.com, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 04:37:23 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Sat, 06 Apr 2024 16:46:50 GMT
+ETag: "7-6157051a0e617"
+Accept-Ranges: bytes
+Content-Length: 7
+Connection: close
+Content-Type: text/html
 
-Petición recibida: GET /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+Petición recibida: GET example.com/ HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Age: 585423
+Cache-Control: max-age=604800
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 15 Apr 2024 04:37:35 GMT
+Etag: "3147526947+gzip"
+Expires: Mon, 22 Apr 2024 04:37:35 GMT
+Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
+Server: ECS (cha/81B9)
+Vary: Accept-Encoding
+X-Cache: HIT
+Content-Length: 1256
+Connection: close
 
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
+Petición recibida: GET page2.com/ HTTP/1.1
+Respuesta enviada a page2.com, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 04:38:14 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Sat, 06 Apr 2024 16:46:57 GMT
+ETag: "7-61570520d89f1"
+Accept-Ranges: bytes
+Content-Length: 7
+Connection: close
+Content-Type: text/html
 
-Petición recibida: GET /page2.com HTTP/1.1
-Respuesta enviada a page2.com, con encabezado Via: ubuntu@54.89.6.126
+Petición recibida: GET page1.com/prueba.txt HTTP/1.1
+Respuesta enviada a page1.com, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 04:38:34 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Fri, 12 Apr 2024 23:42:04 GMT
+ETag: "16-615eed1abe263"
+Accept-Ranges: bytes
+Content-Length: 22
+Connection: close
+Content-Type: text/plain
 
-Petición recibida: GET /page2.com HTTP/1.1
-Respuesta para /page2.com servida desde caché.
+Petición recibida: GET authpre.senasofiaplus.edu.co/josso/signon/images/logoSofia.png HTTP/1.1
+Respuesta enviada a authpre.senasofiaplus.edu.co, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+ETag: W/"7829-1671201170000"
+Last-Modified: Fri, 16 Dec 2022 14:32:50 GMT
+Content-Type: image/png
+Content-Length: 7829
+Date: Mon, 15 Apr 2024 04:39:40 GMT
+Connection: close
+Set-Cookie: f5avraaaaaaaaaaaaaaaa_session_=DIOEEOLIFMNAEOJDHEMPCEPKAMIOMPGPCIHLACGBMMLPGMOACFDNPBKEBLGENHDGINODFEELBPHDIEEEBLOABBBBEKOMBNIKMANMCDNOAJOGFMGFLNJKOEOPAFENNIKC; HttpOnly
+Set-Cookie: TS0174c3a9=01fd6418ebbaf290cdfdaef15f8dbcba3231e44e10d99e802600a86ca8fe009f626b5c6bafba747174eb11916f1313a5b2d71f42c0a8aa09dc658207dec7b5f91269ad7dc4; Path=/; Domain=.authpre.senasofiaplus.edu.co; HTTPOnly
 
-Petición recibida: HEAD /page2.com HTTP/1.1
-Respuesta para /page2.com servida desde caché.
+Petición recibida: GET /manager/html HTTP/1.1
+Petición recibida: GET 3.219.115.240/ HTTP/1.1
+Respuesta enviada a 3.219.115.240, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 04:55:14 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Mon, 15 Apr 2024 03:03:59 GMT
+ETag: "15d-61619df76a69b"
+Accept-Ranges: bytes
+Content-Length: 349
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
 
-Petición recibida: HEAD /page2.com HTTP/1.1
-Respuesta para /page2.com servida desde caché.
+Petición recibida: GET 3.219.115.240/ HTTP/1.1
+Respuesta enviada a 3.219.115.240, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 04:56:29 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Mon, 15 Apr 2024 03:03:59 GMT
+ETag: "15d-61619df76a69b"
+Accept-Ranges: bytes
+Content-Length: 349
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
 
-Petición recibida: GET / HTTP/1.1
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta para /example servida desde caché.
+Petición recibida: GET 3.219.115.240/ HTTP/1.1
+Respuesta para 3.219.115.240/ servida desde caché.
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+Petición recibida: GET 3.219.115.240/ HTTP/1.1
+Respuesta enviada a 3.219.115.240, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 04:57:12 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Mon, 15 Apr 2024 03:03:59 GMT
+ETag: "15d-61619df76a69b"
+Accept-Ranges: bytes
+Content-Length: 349
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+Petición recibida: GET 3.219.115.240/ HTTP/1.1
+Respuesta enviada a 3.219.115.240, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 04:58:01 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Mon, 15 Apr 2024 03:03:59 GMT
+ETag: "15d-61619df76a69b"
+Accept-Ranges: bytes
+Content-Length: 349
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta para /example servida desde caché.
+Petición recibida: HEAD 3.219.115.240/ HTTP/1.1
+Respuesta enviada a 3.219.115.240, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 04:58:08 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Mon, 15 Apr 2024 03:03:59 GMT
+ETag: "15d-61619df76a69b"
+Accept-Ranges: bytes
+Content-Length: 349
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+Petición recibida: GET 3.219.115.240/ HTTP/1.1
+Respuesta enviada a 3.219.115.240, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 04:58:38 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Mon, 15 Apr 2024 03:03:59 GMT
+ETag: "15d-61619df76a69b"
+Accept-Ranges: bytes
+Content-Length: 349
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta para /example servida desde caché.
+Petición recibida: GET 3.219.115.240/ HTTP/1.1
+Respuesta enviada a 3.219.115.240, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 05:03:02 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Mon, 15 Apr 2024 03:03:59 GMT
+ETag: "15d-61619df76a69b"
+Accept-Ranges: bytes
+Content-Length: 349
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+Petición recibida: GET 3.219.115.240/ HTTP/1.1
+Respuesta enviada a 3.219.115.240, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 05:04:12 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Mon, 15 Apr 2024 03:03:59 GMT
+ETag: "15d-61619df76a69b"
+Accept-Ranges: bytes
+Content-Length: 349
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+Petición recibida: GET 3.219.115.240/ HTTP/1.1
+Respuesta enviada a 3.219.115.240, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 05:06:47 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Mon, 15 Apr 2024 03:03:59 GMT
+ETag: "15d-61619df76a69b"
+Accept-Ranges: bytes
+Content-Length: 349
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+Petición recibida: GET 3.219.115.240/ HTTP/1.1
+Respuesta enviada a 3.219.115.240, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 05:12:44 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Mon, 15 Apr 2024 03:03:59 GMT
+ETag: "15d-61619df76a69b"
+Accept-Ranges: bytes
+Content-Length: 349
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+Petición recibida: GET 3.219.115.240/ HTTP/1.1
+Respuesta enviada a 3.219.115.240, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 05:13:23 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Mon, 15 Apr 2024 03:03:59 GMT
+ETag: "15d-61619df76a69b"
+Accept-Ranges: bytes
+Content-Length: 349
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+Petición recibida: GET 3.219.115.240/ HTTP/1.1
+Respuesta enviada a 3.219.115.240, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 05:16:15 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Mon, 15 Apr 2024 03:03:59 GMT
+ETag: "15d-61619df76a69b"
+Accept-Ranges: bytes
+Content-Length: 349
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+Petición recibida: GET 3.219.115.240/ HTTP/1.1
+Petición recibida: GET authpre.senasofiaplus.edu.co/josso/signon/images/logoSofia.png HTTP/1.1
+Respuesta enviada a authpre.senasofiaplus.edu.co, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+ETag: W/"7829-1671201177000"
+Last-Modified: Fri, 16 Dec 2022 14:32:57 GMT
+Content-Type: image/png
+Content-Length: 7829
+Date: Mon, 15 Apr 2024 05:18:00 GMT
+Connection: close
+Set-Cookie: f5avraaaaaaaaaaaaaaaa_session_=IKEOIFPDBEADELLNCNKGKANAAHDFAGBEPFJNMHIKJNEOBKDAPBNPCNEAMDAGKPLMLBCDEHFFNIEGFNBGFNDAOGCODLCIHODKJGNFOGPHDEFFOJBLGALJNAJKEKBOJMMI; HttpOnly
+Set-Cookie: TS0174c3a9=01fd6418eb8923e51f2278d5497782e8a15a102d268bdabb4874b7092a70b2aa6659ac3cff13652805100c67a947c92d170f663e3b6408a597ed0fa8da403714d34763f4b0; Path=/; Domain=.authpre.senasofiaplus.edu.co; HTTPOnly
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+Petición recibida: GET 3.219.115.240/ HTTP/1.1
+Petición recibida: GET page2.com/ HTTP/1.1
+Respuesta enviada a page2.com, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 05:22:59 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Fri, 12 Apr 2024 23:44:09 GMT
+ETag: "103-615eed9211229"
+Accept-Ranges: bytes
+Content-Length: 259
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@54.89.6.126
+Petición recibida: GET page3.com/ HTTP/1.1
+Respuesta enviada a page3.com, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 05:23:11 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Sat, 06 Apr 2024 16:46:50 GMT
+ETag: "7-6157051a0e617"
+Accept-Ranges: bytes
+Content-Length: 7
+Connection: close
+Content-Type: text/html
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+Petición recibida: GET page1.com/ HTTP/1.1
+Respuesta enviada a page1.com, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 05:23:22 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Sat, 06 Apr 2024 16:46:57 GMT
+ETag: "7-61570520d89f1"
+Accept-Ranges: bytes
+Content-Length: 7
+Connection: close
+Content-Type: text/html
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+Petición recibida: GET page3.com/ HTTP/1.1
+Respuesta enviada a page3.com, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+Date: Mon, 15 Apr 2024 05:23:41 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Last-Modified: Fri, 12 Apr 2024 23:44:09 GMT
+ETag: "103-615eed9211229"
+Accept-Ranges: bytes
+Content-Length: 259
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+Petición recibida: GET authpre.senasofiaplus.edu.co/josso/signon/images/logoSofia.png HTTP/1.1
+Respuesta enviada a authpre.senasofiaplus.edu.co, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+ETag: W/"7829-1671201220000"
+Last-Modified: Fri, 16 Dec 2022 14:33:40 GMT
+Content-Type: image/png
+Content-Length: 7829
+Date: Mon, 15 Apr 2024 05:26:02 GMT
+Connection: close
+Set-Cookie: f5avraaaaaaaaaaaaaaaa_session_=HGPBEBDICIEGDOAMFMJHBFOHKJAIJLMELNBABAOJKDBACDGLMPGINKMNHJJAOKELIEHDMAEOPKIKAPEHCGIAKFKEBLMBPCNFBKBCKALEDMEFPKNKJCLGMIDEBMEPGIHI; HttpOnly
+Set-Cookie: TS0174c3a9=01fd6418eb40be97bfe1df9d0a2c134b40343f442c03d163de8eb81f3dabebf34916c528fdad0682c42401d6db2798c4ae9fbdce98a6ece0c6e08bb060ea0065a98852393d; Path=/; Domain=.authpre.senasofiaplus.edu.co; HTTPOnly
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
+Petición recibida: GET authpre.senasofiaplus.edu.co/josso/signon/images/logoSofia.png HTTP/1.1
+Respuesta enviada a authpre.senasofiaplus.edu.co, con encabezado Via: ubuntu@107.22.152.250Encabezados de respuesta: HTTP/1.1 200 OK
+ETag: W/"7829-1671201170000"
+Last-Modified: Fri, 16 Dec 2022 14:32:50 GMT
+Content-Type: image/png
+Content-Length: 7829
+Date: Mon, 15 Apr 2024 05:26:42 GMT
+Connection: close
+Set-Cookie: f5avraaaaaaaaaaaaaaaa_session_=JELBBKKLKDIPFLIEMNCGEIKDFNLAKNGLMJFJIKLJAKNFCDKIEKHHCLAMFONHFMBODBIDNGNHHKLJOEPKIBMAKEEAELANFMGEIIGBDBKDLIINLCBECOKFKLBPJPGOLICL; HttpOnly
+Set-Cookie: TS0174c3a9=01fd6418ebf35ada7be860ef12e60e99c497447b19811eefcd1fdcc023c2e0f3ff6565ea93fa2af0dd368178802cf91855cb34d2e3d86d3e76f749a56117a3c1530669e74c; Path=/; Domain=.authpre.senasofiaplus.edu.co; HTTPOnly
 
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: HEAD /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta enviada a example.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: GET /example HTTP/1.1
-Respuesta para /example servida desde caché.
-
-Petición recibida: GET /page2.com HTTP/1.1
-Respuesta enviada a page2.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: GET /page3.com HTTP/1.1
-Respuesta enviada a page3.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: GET /page3.com HTTP/1.1
-Respuesta enviada a page3.com, con encabezado Via: ubuntu@44.207.6.109
-
-Petición recibida: GET /page3.com HTTP/1.1
-Respuesta para /page3.com servida desde caché.
-
-Petición recibida: GET /page3.com HTTP/1.1
-Respuesta para /page3.com servida desde caché.
-
-Petición recibida: GET /page3.com HTTP/1.1
-Respuesta enviada a page3.com, con encabezado Via: ubuntu@44.207.6.109
+Petición recibida: GET example.com/ HTTP/1.1
+Respuesta enviada a example.com, con encabezado Via: ubuntu@52.87.161.68Encabezados de respuesta: HTTP/1.1 200 OK
+Age: 150365
+Cache-Control: max-age=604800
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 17 Apr 2024 03:46:40 GMT
+Etag: "3147526947+gzip+ident"
+Expires: Wed, 24 Apr 2024 03:46:40 GMT
+Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
+Server: ECS (cha/81DE)
+Vary: Accept-Encoding
+X-Cache: HIT
+Content-Length: 1256
+Connection: close
 

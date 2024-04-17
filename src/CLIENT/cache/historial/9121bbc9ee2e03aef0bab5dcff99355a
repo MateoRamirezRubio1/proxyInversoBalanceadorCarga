@@ -1,0 +1,17 @@
+1713158802
+
+GET authpre.senasofiaplus.edu.co/josso/signon/images/logoSofia.png HTTP/1.1
+
+
+HTTP/1.1 200 OK
+ETag: W/"7829-1671201170000"
+Last-Modified: Fri, 16 Dec 2022 14:32:50 GMT
+Content-Type: image/png
+Content-Length: 7829
+Date: Mon, 15 Apr 2024 05:26:42 GMT
+Connection: close
+Set-Cookie: f5avraaaaaaaaaaaaaaaa_session_=JELBBKKLKDIPFLIEMNCGEIKDFNLAKNGLMJFJIKLJAKNFCDKIEKHHCLAMFONHFMBODBIDNGNHHKLJOEPKIBMAKEEAELANFMGEIIGBDBKDLIINLCBECOKFKLBPJPGOLICL; HttpOnly
+Set-Cookie: TS0174c3a9=01fd6418ebf35ada7be860ef12e60e99c497447b19811eefcd1fdcc023c2e0f3ff6565ea93fa2af0dd368178802cf91855cb34d2e3d86d3e76f749a56117a3c1530669e74c; Path=/; Domain=.authpre.senasofiaplus.edu.co; HTTPOnly
+
+‰PNG
+
